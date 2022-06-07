@@ -1,22 +1,22 @@
 # Informe-de-Laboratorio-N-2
 
-Asignatura: Fundamentos de Circuitos Eléctricos
+ASIGNTURA: Fundamentos de Circuitos Eléctricos
 
-Docente: Ing. Darwin Alulema
+DOCENTE: Ing. Darwin Alulema
 
-Integrantes: 
+INTEGRANTES: 
 
-•Nayely Tituaña
+•Guano Ariel
 
-•Anthony Tonato
+•Tituaña Nayely
 
-•Ariel Guano
+•Tonato Anthony
 
 Semestre: Segundo
 
-Parcial: 1
+PARCIAL: 1
 
-Laboratorio Nro: 2 
+LABORATORIO N°: 2 
 
 TEMA: ANÁLISIS DE MALLAS 
 
@@ -66,19 +66,29 @@ PROCEDIMIENTO
 
 3.4 Resultados obtenidos para el circuito de la figura 2.1
 
+![image](https://user-images.githubusercontent.com/105722861/172298200-2875f6fd-2421-40ec-949f-e1d57f77ba15.png)
+
 3.5 Porcentaje de Error.
 
+![image](https://user-images.githubusercontent.com/105722861/172300747-59eaa058-1bd1-43bf-9f1e-80e24bd99223.png)
+
 3.6 Porcentaje de Error.
+
+![image](https://user-images.githubusercontent.com/105722861/172301826-66c3ec3d-59fc-43e9-9236-53880443f9ee.png)
 
 4. VIDEO
 
 5. CONCLUSIONES
 
-* En esta práctica de laboratorio se calculó el valor de la corriente del circuito mediante LVK. A la hora de realizar los respectivos cálculos en la práctica de laboratorio se evidencio que con el análisis de mallas se puede ir calculando el circuito en varias partes y lograr resolverlo de una manera más fácil.
+* En esta práctica de laboratorio se calculó el valor de la corriente del circuito mediante las leyes de voltaje de Kirchhoff y l momento de realizar los respectivos cálculos presentes en la práctica se pudo  evidenciar que con el análisis de mallas se puede ir calculando el circuito en por partes  partes y lograr resolverlo de una manera más rápida y fácil.
 
 * Se aplicó un sentido horaio de corriente para todas las mallas por conveniencia, pero indistintamente del sentido se obtiene los mismos valores.
 
+* Ademas gracias al  uso del simulador de Tinkercad se pudo comprobar que los resultados calculados analiticamente eran correctos, esto es de gran ayuda al momento de las practicas de laboratorio. 
+
 6. BIBLIOGRAFIA 
+
+
 
 
 
