@@ -18,29 +18,29 @@ Parcial: 1
 
 Laboratorio Nro: 
 
-TEMA: Análsiis de mallas 
+TEMA: ANÁLISIS DE MALLAS 
 
-OBJETIVO
+1. OBJETIVOS
 
-Objetivo General:
+OBJETIVO GENERAL
 
 Determinar mediante la ley de voltajes de Kirchhoff la corriente en un circuito eléctrico.
 
-Objetivos Específicos:
+OBJETIVOS ESPECIFICOS:
 
-Calcular el valor de la corriente del circuito mediante el análisis de mallas.
+* Calcular el valor de la corriente del circuito mediante el análisis de mallas.
 
-Aplicar un sentido de corriente arbitrario (horario o antihorario) para todas las mallas.
+* Aplicar un sentido de corriente arbitrario (horario o antihorario) para todas las mallas.
 
-Comprender la importancia que tiene el análisis de mallas al analizar circuitos electrónicos para realizar cálculos de una manera más fácil y organizada.
+* Comprender la importancia que tiene el análisis de mallas al analizar circuitos electrónicos para realizar cálculos de una manera más fácil y organizada.
 
-MARCO TEÓRICO (RESUMEN)
+2. MARCO TEÓRICO (RESUMEN)
 
 ![image](https://user-images.githubusercontent.com/105722861/172275230-0893ac88-ac05-4551-aed2-7353edee9fdd.png)
 
 ![image](https://user-images.githubusercontent.com/105722861/172275243-f67a9c28-5275-41bc-8df1-67d39745ead7.png)
 
-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 MATERIAL
 
@@ -48,15 +48,27 @@ MATERIAL
 
 PROCEDIMIENTO
 
-Implemente el circuito que se presenta en la figura 2.1.
+3.1 Implemente el circuito que se presenta en la figura 2.1.
 
 ![image](https://user-images.githubusercontent.com/105722861/172275337-9d29bdbc-72a0-485a-a760-10efdbf964f8.png)
 
-Medición de cada una de las corrientes de las malla.
+3.2 Medición de cada una de las corrientes de las malla.
 
-Uso del simulador Tinkercad para el circuito de la figura 2.1, obteniendo los valores de las corrientes de las mallas.
+![image](https://user-images.githubusercontent.com/105722861/172292513-fcae3c82-e338-443a-b71e-7a664e6b4f3c.png)
+
+![image](https://user-images.githubusercontent.com/105722861/172292614-2389bb85-b5b9-462d-ab24-383cab5fb619.png)
+
+![image](https://user-images.githubusercontent.com/105722861/172292676-3849de40-ec3c-4e2b-8f02-3f85693c2813.png)
+
+3.3 Uso del simulador Tinkercad para el circuito de la figura 2.1, obteniendo los valores de las corrientes de las mallas.
 
 ![image](https://user-images.githubusercontent.com/105722861/172275425-5ad239fe-6d74-4213-9008-80f39e301eae.png)
+
+3.4 Resultados obtenidos para el circuito de la figura 2.1
+
+3.5 Porcentaje de Error.
+
+3.6 Porcentaje de Error.
 
 VIDEO
 
