@@ -62,6 +62,12 @@ PROCEDIMIENTO
 
 ![image](https://user-images.githubusercontent.com/105722861/172292676-3849de40-ec3c-4e2b-8f02-3f85693c2813.png)
 
+Nota: Se procedio a comprobaron los valores deintensidad de corriente  por medio de la calculador online de Sistemas de tres Ecuaciones.
+
+Donde:  X=I1  ;  Y= I2  ;  Z= I3
+
+![image](https://user-images.githubusercontent.com/105722861/172304707-890de4ca-6b35-4f92-9956-4f99c7800712.png)
+
 3.3 Uso del simulador Tinkercad para el circuito de la figura 2.1, obteniendo los valores de las corrientes de las mallas.
 
 ![image](https://user-images.githubusercontent.com/105722861/172275425-5ad239fe-6d74-4213-9008-80f39e301eae.png)
