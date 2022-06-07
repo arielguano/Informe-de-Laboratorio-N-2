@@ -16,7 +16,7 @@ Semestre: Segundo
 
 Parcial: 1
 
-Laboratorio Nro: 
+Laboratorio Nro: 2 
 
 TEMA: ANÁLISIS DE MALLAS 
 
@@ -24,7 +24,7 @@ TEMA: ANÁLISIS DE MALLAS
 
 OBJETIVO GENERAL
 
-Determinar mediante la ley de voltajes de Kirchhoff la corriente en un circuito eléctrico.
+* Determinar mediante la ley de voltajes de Kirchhoff la corriente en un circuito eléctrico.
 
 OBJETIVOS ESPECIFICOS:
 
@@ -70,15 +70,15 @@ PROCEDIMIENTO
 
 3.6 Porcentaje de Error.
 
-VIDEO
+4. VIDEO
 
-CONCLUSIONES
+5. CONCLUSIONES
 
-En esta práctica de laboratorio se calculó el valor de la corriente del circuito mediante LVK. A la hora de realizar los respectivos cálculos en la práctica de laboratorio se evidencio que con el análisis de mallas se puede ir calculando el circuito en varias partes y lograr resolverlo de una manera más fácil.
+* En esta práctica de laboratorio se calculó el valor de la corriente del circuito mediante LVK. A la hora de realizar los respectivos cálculos en la práctica de laboratorio se evidencio que con el análisis de mallas se puede ir calculando el circuito en varias partes y lograr resolverlo de una manera más fácil.
 
-Se aplicó un sentido horaio de corriente para todas las mallas por conveniencia, pero indistintamente del sentido se obtiene los mismos valores.
+* Se aplicó un sentido horaio de corriente para todas las mallas por conveniencia, pero indistintamente del sentido se obtiene los mismos valores.
 
-BIBLIOGRAFIA 
+6. BIBLIOGRAFIA 
 
 
 
