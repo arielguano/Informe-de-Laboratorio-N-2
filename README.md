@@ -1,22 +1,24 @@
 # Informe-de-Laboratorio-N-2
 
-ASIGNTURA: Fundamentos de Circuitos Eléctricos
+ASIGNTURA:  Fundamentos de Circuitos Eléctricos
 
-DOCENTE: Ing. Darwin Alulema
+DOCENTE:  Ing. Darwin Alulema
 
 INTEGRANTES: 
 
-•Guano Ariel
+•GUANO ARIEL
 
-•Tituaña Nayely
+•TITUAÑA NAYELY
 
-•Tonato Anthony
+•TONATO ANTHONY 
 
-Semestre: Segundo
+SEMESTRE: Segundo
 
 PARCIAL: 1
 
 LABORATORIO N°: 2 
+
+--------------------------------------------
 
 TEMA: ANÁLISIS DE MALLAS 
 
@@ -87,6 +89,13 @@ PROCEDIMIENTO
 * Ademas gracias al  uso del simulador de Tinkercad se pudo comprobar que los resultados calculados analiticamente eran correctos, esto es de gran ayuda al momento de las practicas de laboratorio. 
 
 6. BIBLIOGRAFIA 
+
+* McAllister, W. (19 de Abril de 2018). Khan Academy. Obtenido de El método de la corriente de malla : https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method?qa_expand_key=ag5zfmtoYW4tYWNhZGVteXJpCxIIVXNlckRhdGEiRnVzZXJfaWRfa2V5X2h0dHA6Ly9pZC5raGFuYWNhZGVteS5vcmcvYTEwM2FkYTUyZTVjN
+
+* Calculadora de online de  SISTEMA DE TRES ECUACIONES LINEALES
+CON TRES INCÓGNITAS (3 equations System) http://matematicas.relatividad.org/widget-sistema-tres-incognitas.html
+
+
 
 
 
