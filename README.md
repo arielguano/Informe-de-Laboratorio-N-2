@@ -85,7 +85,7 @@ Donde:  X=I1  ;  Y= I2  ;  Z= I3
 ![image](https://user-images.githubusercontent.com/105722861/172301826-66c3ec3d-59fc-43e9-9236-53880443f9ee.png)
 
 4. VIDEO
-
+https://studio.youtube.com/video/-dWPWQXOODw/edit
 5. CONCLUSIONES
 
 * En esta práctica de laboratorio se calculó el valor de la corriente del circuito mediante las leyes de voltaje de Kirchhoff y l momento de realizar los respectivos cálculos presentes en la práctica se pudo  evidenciar que con el análisis de mallas se puede ir calculando el circuito en por partes  partes y lograr resolverlo de una manera más rápida y fácil.
